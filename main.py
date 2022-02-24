@@ -1,5 +1,5 @@
 # Command to run script for scraping - scrapy runspider main.py -s USER_AGENT="Mobile"
-#123123
+
 import requests
 import scrapy
 
